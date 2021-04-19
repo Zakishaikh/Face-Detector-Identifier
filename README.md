@@ -1,4 +1,4 @@
-# Face Recogniton GUI-APP
+# Face Recognition GUI-APP
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
@@ -12,7 +12,7 @@
 
 #  New Features!
 
-  - Add Emotion detection
+  - Add motion detection
   - Fixed image loading in Linux 
   
   
@@ -59,7 +59,7 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
+Made By ❤ : [zakishaikh]<br>
 **Free Software, Hell Yeah!**
 
 
